@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-
 import 'custom_app_bar.dart';
-import 'notes_item.dart';
 import 'notes_list_views.dart';
 
 class NotesViewBody extends StatelessWidget {
